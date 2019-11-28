@@ -1,5 +1,7 @@
 # linux-install-sh
-服务器安装java环境、docker、maven、gradle脚本
+服务器安装java环境、docker、maven、gradle脚本  
+
+**注意：**目前只支持ubuntu、centos，如果是其他的linux系统，可以自行微调setup.sh里的命令
 
 ## 安装java
 由于java的包太大，需要自行前往[JAVA](https://www.oracle.com/technetwork/cn/java/javase/downloads/jdk8-downloads-2133151-zhs.html) 官网下载,
